@@ -26,7 +26,7 @@
     "jsonwebtoken": "^8.5.1",
     "mogoose": "0.0.1-security",
     "mongoose": "^5.9.3",
-    "npm": "^6.14.2",
+    "npm": "^6.14.6",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
     "redux": "^4.0.5",
